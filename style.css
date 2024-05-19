@@ -1,0 +1,141 @@
+.bi-envelope {
+  margin-right: 5px;
+}
+.bi-telephone-fill {
+  margin-right: 5px;
+}
+.links .row {
+  background-color: rgb(91, 90, 90);
+}
+.links a {
+  text-decoration: none;
+}
+.links .emails-box a {
+  color: white;
+}
+.links .emails-box a:hover {
+  color: #fd6802;
+  transition: all 0.3s ease-in;
+}
+.links .phones-box a {
+  transition: all 0.3s ease-in;
+  color: white;
+}
+.links .phones-box a:hover {
+  color: #fd6802;
+}
+.links .social-box a {
+  color: white;
+  transition: all 0.3s ease-in;
+}
+.links .social-box a:hover {
+  color: #fd6802;
+}
+/* =====================NAVBAR============= */
+.navitems .nav-link {
+  color: black;
+  font-size: large;
+  transition: all 0.3s ease-in;
+}
+.navitems .nav-link:hover {
+  background-color: #fd6802;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 20px;
+  color: white;
+}
+/* =======header-=-=-=-=-=-=-=-= */
+.btn-header {
+  color: white;
+  background-color: #fd6802;
+  border: 2px solid #fd6802;
+  width: 150px;
+  font-size: 15px;
+  font-weight: 700;
+  height: 50px;
+  transition: all 0.3s ease-in;
+}
+.btn-header:hover {
+  background-color: gray;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-color: #fd6802;
+  color: white;
+}
+/* ===========Clents-------- */
+.clients {
+  margin-top: 50px;
+  background: url(images/parallax_04.jpg) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.clients .btn-p {
+  width: 100px;
+  height: 100px;
+  background-color: #fd6802;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  margin: 20px;
+}
+.clients .btn-p a {
+  font-size: 30px;
+  color: white;
+  transition: all 0.3s ease-in;
+}
+.clients .btn-p:hover {
+  border: 2px solid rgb(255, 174, 0);
+}
+.clients p {
+  font-size: 25px;
+  color: rgb(255, 174, 0);
+  font-weight: 600;
+}
+.clients h1 {
+  color: white;
+}
+/* ========Services-========== */
+.services {
+  margin-top: 30px;
+}
+/* ============websites=========== */
+.websites {
+  margin-top: 100px;
+  background: url(images/parallax_05.png) no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.websites h1 {
+  color: white;
+}
+.websites p {
+  color: white;
+}
+.footer {
+  margin-top: 70px;
+  background-color: rgb(101, 101, 101);
+}
+.footer a {
+  text-decoration: none;
+  color: gray;
+  transition: all 0.3s ease-in;
+}
+.footer a:hover {
+  color: #fd6802;
+  padding-left: 10px;
+}
+.footer input {
+  height: 50px;
+  background-color: rgb(63, 63, 63);
+  border: gray;
+  text-color: azure;
+}
+.footer input:focus {
+  background-color: rgb(63, 63, 63);
+}
+.footer span {
+  background-color: rgb(63, 63, 63);
+  border: gray;
+}
+.footer span .bi-envelope {
+  color: azure;
+  font-size: 20px;
+}
